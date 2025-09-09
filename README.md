@@ -29,7 +29,7 @@ O AIssist permitirá que o usuário tenha total controle sobre o chamado aberto 
 ---
 
 ## 📋 Backlog do Projeto <a id="backlog"></a>
-[Backlog](./Analise%20POO/User%20Stories.txt)
+[Backlog](https://github.com/ThorMorciani/PimWeb/blob/develop/Analise%20POO/User%20Stories.txt)
 
 ---
 
