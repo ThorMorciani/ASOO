@@ -20,7 +20,7 @@
 
 ## 🏅 Desafio <a id="desafio"></a>
 
-O desafia consiste em desenvolver um sistema de gerenciamento de chamados com o auxílio de uma Inteligência Artificial para propor possíveis soluções e ajudar na categorização de chamados, deixando o processo mais eficiente e menos propenso à falhas.
+O desafio consiste em desenvolver um sistema de gerenciamento de chamados com o auxílio de uma Inteligência Artificial para propor possíveis soluções e ajudar na categorização de chamados, deixando o processo mais eficiente e menos propenso à falhas.
 
 ## 🏅 Solução <a id="solucao"></a>
 
